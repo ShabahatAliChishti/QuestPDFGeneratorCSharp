@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "KNnIGoY5kkOFDc37HjH/s1DL8DAwBszki/G0a1d1YaIfO0oXQo1Y2sPYHYhE6vhF705ryG7wXhlXue1iQiGXIw==",
+  "success": true,
+  "projectFilePath": "D:\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cs-ro\\.nuget\\packages\\harfbuzzsharp\\2.6.1.9\\harfbuzzsharp.2.6.1.9.nupkg.sha512",
+    "C:\\Users\\cs-ro\\.nuget\\packages\\questpdf\\2022.9.0\\questpdf.2022.9.0.nupkg.sha512",
+    "C:\\Users\\cs-ro\\.nuget\\packages\\skiasharp\\2.80.4\\skiasharp.2.80.4.nupkg.sha512",
+    "C:\\Users\\cs-ro\\.nuget\\packages\\skiasharp.harfbuzz\\2.80.4\\skiasharp.harfbuzz.2.80.4.nupkg.sha512",
+    "C:\\Users\\cs-ro\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
